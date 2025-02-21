@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "40af80fc20348ff6",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a2d75ca39bd3650",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "310b6429964f48c3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "35152412879dc6d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "86d803be04985272",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d68ca45da29c8641",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6bcacce385796915",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b1545729bdba7481",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c391ec7353c139a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a05be5161fa8acd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ae0087055a12efd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b6a7e99806f656bd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "05be968514c281a4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "29328c901ddce15c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "yet-another-obsidian-synchronizer:YAOS": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "d68ca45da29c8641",
+  "lastOpenFiles": [
+    "README.md",
+    "HTML/Links and Images.md",
+    "TOP/Images/Internet_images/Router_network.png",
+    "TOP/Images/Internet_images/Router.png",
+    "TOP/Images/Internet_images/Network_of_computers.png",
+    "TOP/Images/Internet_images/Modem.png",
+    "TOP/Images/Internet_images/Isp.png",
+    "TOP/Images/Internet_images/How_DNS_works.png",
+    "TOP/Images/Internet_images/Connection_between_computers.png",
+    "TOP/Images/Internet_images/Domain_name.png",
+    "TOP/Images/Html_images/unordered_list.png",
+    "TOP/Images/Html_images/ordered_list.png",
+    "TOP/Images/Internet_images",
+    "TOP/Images/Html_images",
+    "TOP/Images",
+    "TOP/How does the internet work/Internet.md",
+    "TOP/How does the internet work/How files are sent.md",
+    "TOP/How does the internet work/How does the web work.md",
+    "TOP/How does the internet work",
+    "TOP/HTML/Working With Text.md",
+    "TOP/HTML/Lists.md",
+    "TOP/HTML/Links and Images.md",
+    "TOP/HTML/HTML Boilerplate.md",
+    "TOP/HTML/Elements and Tags.md",
+    "TOP/HTML",
+    "TOP",
+    "domain.md",
+    "How does the internet work/How does the web work.md",
+    "How does the internet work/Internet.md",
+    "How does the internet work/How files are sent.md",
+    "HTML/Lists.md",
+    "HTML/Working With Text.md",
+    "HTML/HTML Boilerplate.md",
+    "HTML/Elements and Tags.md",
+    "Images/Html_images",
+    "Untitled.canvas",
+    "Untitled.md",
+    "HTML",
+    "Images/Internet_images",
+    "Images",
+    "Linux/Untitled.md",
+    "Linux.md",
+    "files.md",
+    "Welcome.md"
+  ]
+}
