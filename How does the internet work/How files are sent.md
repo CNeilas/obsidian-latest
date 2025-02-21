@@ -1,0 +1,1 @@
+The information you send is split into many packets and sent to another device, if it's sent in one go it can get stuck.
