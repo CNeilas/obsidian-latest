@@ -46,4 +46,3 @@ Makes a list that looks like this:
 Makes a list looks like this:
 
 ![[Nested_list.png]]
-meow
