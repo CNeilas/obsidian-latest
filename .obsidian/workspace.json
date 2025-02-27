@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/Flexbox/Alignment.md",
+                "file": "Programming/HTML/Links and Images.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alignment"
+              "title": "Links and Images"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/Flexbox/Alignment.md",
+                "file": "Programming/HTML/Links and Images.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Alignment"
+              "title": "Outline of Links and Images"
             }
           }
         ],
@@ -168,34 +168,35 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4cf890c1f9a0a555",
+  "active": "d68ca45da29c8641",
   "lastOpenFiles": [
+    "Programming",
+    "Programming/JavaScript",
+    "Programming/CSS/Flexbox/Alignment.md",
     "Images/CSS_images/center.png",
     "Images/CSS_images/space_between.png",
-    "CSS/Flexbox/Axes.md",
-    "CSS/Flexbox/Alignment.md",
+    "Programming/CSS/Flexbox/Axes.md",
     "Images/CSS_images/flex_column_1.png",
     "Images/CSS_images/flex_column_auto.png",
-    "CSS/Flexbox/Growing and Shrinking.md",
+    "Programming/CSS/Flexbox/Growing and Shrinking.md",
     "Images/CSS_images/flex_even.png",
     "Images/CSS_images/flex_grow.png",
     "Images/CSS_images/flex_shrink.png",
     "Pasted image 20250226115014.png",
     "Pasted image 20250226114724.png",
     "flex-grow.png",
-    "CSS/Flexbox/Display flex.md",
-    "Pasted image 20250226114616.png",
-    "CSS/Block and Inline.md",
-    "CSS/Box Model.md",
-    "CSS/Flexbox",
+    "Programming/CSS/Flexbox/Display flex.md",
+    "Programming/CSS/Block and Inline.md",
+    "Programming/CSS/Box Model.md",
+    "Programming/CSS/Flexbox",
     "Images/Untitled.md",
     "Images/CSS_images",
-    "CSS/Getting Started.md",
+    "Programming/CSS/Getting Started.md",
     "Untitled.md",
-    "HTML/Lists.md",
-    "CSS",
+    "Programming/HTML/Lists.md",
+    "Programming/CSS",
     "README.md",
-    "HTML/Links and Images.md",
+    "Programming/HTML/Links and Images.md",
     "TOP/Images/Internet_images",
     "TOP/Images/Html_images",
     "TOP/Images",
@@ -214,8 +215,7 @@
     "How does the internet work/How does the web work.md",
     "How does the internet work/Internet.md",
     "How does the internet work/How files are sent.md",
-    "HTML/Working With Text.md",
-    "Images/Html_images",
+    "Programming/HTML/Working With Text.md",
     "Untitled.canvas"
   ]
 }
