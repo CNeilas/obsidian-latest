@@ -12,4 +12,4 @@ Imagine that the Internet is like a road. On one end there is a client(you), on 
 3. When server approves the request it sends the client "200 OK" message which means that you can access the data. The data is then sent to you as a series of small packets of data.
 4. The browser assembles the data into a web page and displays it to you.
 
-5. ![[How_DNS_works.png]]
+   ![[How_DNS_works.png]]
