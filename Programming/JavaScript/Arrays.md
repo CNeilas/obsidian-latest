@@ -190,3 +190,58 @@ const fruits = ["Banana", "Orange", "Lemon", "Apple", "Mango"]
 const citrus = fruits.slice(3) //  Apple, Mango
 const citrus = fruits.slice(1, 3) // Orange, Lemon
 ```
+
+## Intermediate/advanced arrays
+
+### Map
+
+Map expects a callback function that tells us what to do with array values and returns a new array, does not change the original one.
+
+```
+function addOne(num) {
+	return num + 1
+}
+
+const arr = [1, 2, 3, 4, 5]
+const mappedArr = arr.map(addOne)
+console.log(mappedArr) // [2, 3, 4, 5, 6]
+// the original array doesn't change
+console.log(arr) // [1, 2, 3, 4, 5]
+```
+
+We can also write a function inside the `map` as well:
+
+```
+const arr = [1, 2, 3, 4, 5]
+const mappedArr = arr.map((num) => num + 1)
+console.log(mappedArr) // [2, 3, 4, 5, 6]
+```
+
+### Filter
+
+Similar to `map` as it also iterates through and returns an array while using a callback function, but it only if the callback function returns true.
+
+```
+function isOdd(num) {
+	return num % 2 !== 0
+}
+
+const arr = [1, 2, 3, 4, 5]
+const oddNums = arr.filter(isOdd)
+console.log(oddNums) // [1, 3, 5]
+console.log(arr) // [1, 2, 3, 4, 5]
+```
+
+### Reduce
+
+Reduce takes two arguments, first one is an `accumulator`, it is the current value at that point in the loop, it will be set to either initialvalue or the first value in the array.
+Initial value is the second argument(optional), it is written after the callback. Better explanation is the example:
+
+```
+const arr = [1, 2, 3, 4, 5]
+const productOfAllNums = arr.reduce((total, currentItem) => {
+return total * currentItem
+}, 1)
+
+console.log(productOfAllNums) // 120
+```
