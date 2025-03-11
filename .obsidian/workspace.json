@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Strings"
             }
+          },
+          {
+            "id": "443744ea564e201d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,13 +153,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/JavaScript/Strings.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Strings"
+              "title": "Outline"
             }
           }
         ],
@@ -168,7 +180,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4cf890c1f9a0a555",
+  "active": "443744ea564e201d",
   "lastOpenFiles": [
     "Programming/JavaScript/Data Types.md",
     "Programming/JavaScript/Numbers.md",
