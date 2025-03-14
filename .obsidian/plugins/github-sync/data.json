@@ -1,10 +1,6 @@
 {
-<<<<<<< HEAD
   "remoteURL": "https://github.com/CNeilas/obsidian-latest",
-=======
-  "remoteURL": "git@github.com:CNeilas/obsidian-latest.git",
->>>>>>> b5e946d5a67abb8ed6a25845d9e7b98ac2b83598
   "gitLocation": "",
   "syncinterval": 0,
-  "isSyncOnLoad": true
+  "isSyncOnLoad": false
 }
