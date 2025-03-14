@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a990b4a91fe78009",
+        "id": "d008b6a355384548",
         "type": "tabs",
         "children": [
           {
-            "id": "9342ba0dfe608561",
+            "id": "4cf890c1f9a0a555",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "c391ec7353c139a6",
@@ -140,21 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
                 "file": "Programming/JavaScript/Strings.md",
-=======
-                "file": "Programming/JavaScript/Arrays.md",
->>>>>>> 97a6f9e (sneil-Lenovo-Legion-Y530-15ICH-1060 2025-3-14:17:5:41)
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-<<<<<<< HEAD
               "title": "Outline of Strings"
-=======
-              "title": "Outline of Arrays"
->>>>>>> 97a6f9e (sneil-Lenovo-Legion-Y530-15ICH-1060 2025-3-14:17:5:41)
             }
           }
         ],
@@ -162,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,53 +168,40 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "9342ba0dfe608561",
+  "active": "4cf890c1f9a0a555",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Programming/JavaScript/Conditionals.md",
-=======
-    "Programming/JavaScript/Functions.md",
-    "Programming/JavaScript/Strings.md",
-    "Programming/JavaScript/Variables.md",
     "Programming/JavaScript/Booleans.md",
+    "Programming/CSS/Positioning.md",
     "Programming/CSS/Custom Properties(var).md",
     "Programming/CSS/CSS Functions.md",
-    "Programming/CSS/Positioning.md",
->>>>>>> 97a6f9e (sneil-Lenovo-Legion-Y530-15ICH-1060 2025-3-14:17:5:41)
+    "Programming/JavaScript/Conditionals.md",
     "Programming/CSS/Advanced Selectors.md",
     "Programming/CSS/More CSS properties.md",
     "Programming/CSS/More text styles.md",
-    "Programming/CSS/CSS Units.md",
-<<<<<<< HEAD
-    "Images/JS_images/object_example.png",
-    "Images/JS_images/initializing_object.png",
-    "Images/JS_images/assigning_obj_properties.png",
-    "Images/JS_images/DOM_Tree.png",
-=======
-    "Programming/HTML/Tables.md",
-    "Programming/CSS/Getting Started.md",
+    "Programming/HTML/Working With Text.md",
+    "Programming/HTML/HTML Boilerplate.md",
+    "Programming/HTML/Elements and Tags.md",
     "Programming/HTML/SVG.md",
->>>>>>> 97a6f9e (sneil-Lenovo-Legion-Y530-15ICH-1060 2025-3-14:17:5:41)
-    "Images/Html_images/Table_img.png",
-    "Programming/JavaScript/Arrays.md",
+    "Programming/JavaScript/Strings.md",
     "Programming/JavaScript/Objects.md",
-    "Images/JS_images/assigning_obj_properties.png",
-    "Images/JS_images/initializing_object.png",
-    "Images/JS_images/object_example.png",
-    "Programming/JavaScript/DOM Manipulation.md",
-    "Programming/JavaScript/Events.md",
-    "Images/JS_images/DOM_Tree.png",
     "Programming/JavaScript/Loops.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "Programming/JavaScript/Numbers.md",
+    "Programming/JavaScript/Events.md",
+    "Programming/JavaScript/DOM Manipulation.md",
+    "Programming/JavaScript/Arrays.md",
+    "Programming/HTML/Tables.md",
+    "Programming/CSS/CSS Units.md",
+    "Images/JS_images/object_example.png",
+    "Images/JS_images/initializing_object.png",
+    "Images/JS_images/assigning_obj_properties.png",
+    "Images/JS_images/DOM_Tree.png",
+    "Images/Html_images/Table_img.png",
     "Programming/JavaScript/Data Types.md",
-    "Programming/JavaScript/Conditionals.md",
-    "Programming/JavaScript",
+    "Programming/JavaScript/Numbers.md",
+    "Programming/JavaScript/Variables.md",
+    "Programming/JavaScript/Functions.md",
     "Images/JS_images/variables.png",
     "Images/JS_images/function_args_pars.png",
     "Images/JS_images",
-<<<<<<< HEAD
     "Programming/JavaScript/Untitled",
     "Programming/HTML/Links and Images.md",
     "Programming",
@@ -231,23 +209,13 @@
     "Programming/CSS/Flexbox/Alignment.md",
     "Images/CSS_images/center.png",
     "Images/CSS_images/space_between.png",
-    "Programming/CSS/Flexbox/Axes.md",
     "Images/CSS_images/flex_column_1.png",
-=======
-    "Temporary/Welcome.md",
-    "Temporary",
->>>>>>> 97a6f9e (sneil-Lenovo-Legion-Y530-15ICH-1060 2025-3-14:17:5:41)
-    "Programming/CSS/Flexbox/Growing and Shrinking.md",
     "Programming/CSS/Flexbox",
-    "Programming/HTML",
-    "Programming/CSS",
-    "Programming",
-    "Images/CSS_images/space_between.png",
-    "Images/CSS_images/flex_shrink.png",
-    "Images/CSS_images/flex_layout.png",
     "Images/CSS_images",
+    "Programming/CSS",
     "TOP/Images/Internet_images",
     "TOP/Images/Html_images",
+    "TOP/Images",
     "Untitled.canvas"
   ]
 }
