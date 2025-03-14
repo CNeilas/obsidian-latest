@@ -61,3 +61,5 @@ function number(count) {
 	}
 }
 ```
+
+If you do not specify a return value function returns `undefined` by default.

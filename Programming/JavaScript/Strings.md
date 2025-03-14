@@ -130,3 +130,20 @@ const myArray = text.split(","); // ["How are you doing today?"]
 const myArray = text.split(" "); // ["How, are, you, doing, today?"]
 ```
 Experiment with this shit later myself.
+
+## IndexOf
+
+```
+console.log("bagel.indexOf("l")) // 4
+console.log("bagel.indexOf("z")) // -1
+```
+
+`indexOf` will return only the first occurence of the character. If the character is not found withing the string it will return `-1`.
+
+## ToLowerCase and ToUpperCase
+
+```
+let string = "chaR"
+console.log(string.toUpperCase()) // CHAR
+console.log(string.toLowerCase()) // char
+```
