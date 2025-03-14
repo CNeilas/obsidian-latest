@@ -1,4 +1,3 @@
-
 ## Anchor elements
 
 This is a link to another page/website:

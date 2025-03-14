@@ -1,4 +1,3 @@
-
 Internet is a large network of computers that communicate all together.
 
 You can link computers together with either an ethernet cable or Wi-Fi/Bluetooth.
