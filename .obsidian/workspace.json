@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/CSS/Advanced Selectors.md",
+                "file": "Programming/JavaScript/Strings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Advanced Selectors"
+              "title": "Strings"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/CSS/Advanced Selectors.md",
+                "file": "Programming/JavaScript/Strings.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Advanced Selectors"
+              "title": "Outline of Strings"
             }
           }
         ],
@@ -170,6 +170,8 @@
   },
   "active": "4cf890c1f9a0a555",
   "lastOpenFiles": [
+    "Programming/JavaScript/Conditionals.md",
+    "Programming/CSS/Advanced Selectors.md",
     "Programming/CSS/More CSS properties.md",
     "Programming/CSS/More text styles.md",
     "Programming/HTML/Working With Text.md",
@@ -184,7 +186,6 @@
     "Programming/JavaScript/Arrays.md",
     "Programming/HTML/Tables.md",
     "Programming/CSS/CSS Units.md",
-    "Programming/CSS/Advanced Selectors.md",
     "Images/JS_images/object_example.png",
     "Images/JS_images/initializing_object.png",
     "Images/JS_images/assigning_obj_properties.png",
@@ -197,7 +198,6 @@
     "Images/JS_images/variables.png",
     "Images/JS_images/function_args_pars.png",
     "Images/JS_images",
-    "Programming/JavaScript/Conditionals.md",
     "Programming/JavaScript/Untitled",
     "Programming/HTML/Links and Images.md",
     "Programming",
