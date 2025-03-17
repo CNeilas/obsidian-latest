@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/JavaScript/Strings.md",
+                "file": "Programming/CSS/Forms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Strings"
+              "title": "Forms"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/JavaScript/Strings.md",
+                "file": "Programming/CSS/Forms.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Strings"
+              "title": "Outline of Forms"
             }
           }
         ],
@@ -154,7 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 316.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,8 +168,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4cf890c1f9a0a555",
+  "active": "29328c901ddce15c",
   "lastOpenFiles": [
+    "Programming/JavaScript/Strings.md",
+    "Programming/CSS/Forms.md",
     "Programming/JavaScript/Booleans.md",
     "Programming/CSS/Positioning.md",
     "Programming/CSS/Custom Properties(var).md",
@@ -182,7 +184,6 @@
     "Programming/HTML/HTML Boilerplate.md",
     "Programming/HTML/Elements and Tags.md",
     "Programming/HTML/SVG.md",
-    "Programming/JavaScript/Strings.md",
     "Programming/JavaScript/Objects.md",
     "Programming/JavaScript/Loops.md",
     "Programming/JavaScript/Events.md",
@@ -206,7 +207,6 @@
     "Programming/HTML/Links and Images.md",
     "Programming",
     "Programming/JavaScript",
-    "Programming/CSS/Flexbox/Alignment.md",
     "Images/CSS_images/center.png",
     "Images/CSS_images/space_between.png",
     "Images/CSS_images/flex_column_1.png",
