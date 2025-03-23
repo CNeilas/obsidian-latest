@@ -68,4 +68,4 @@ No idea what this does, have to try later:
 }
 ``` 
 
-Oh it makes the Hell... if text overflows, funny.
+Oh it makes the Hell...(it does ... at the end of content that does not fit, adding this because I realized I couldn't understand this reading it after a while) if text overflows, funny.
