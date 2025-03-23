@@ -89,7 +89,7 @@ These are classes based on their position within the DOM.
 
 `[attribute]` - This will select anything where the given attribute exists.
 
-`selector[attribute]` -Optionally we can combine this with selectors.
+`selector[attribute]` - Optionally we can combine this with selectors.
 
 `[attribute="value"]` - This gets really specific as it matches both attribute and the value of it.
 

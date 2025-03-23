@@ -85,3 +85,22 @@ You can display some initial content like this:
 ### Selection elements
 
 #### Select dropdown
+
+```
+<select name="car">
+	<option value="mercedes">Mercedes</option>
+	<option value="tesla">Tesla</option>
+	<option value="volvo">Volvo</option>
+	<option value="bmw">BMW</option>
+	<option value="mini">Mini</option>
+	<option value="ford">Ford</option>
+</select>
+```
+
+The option elements should have `value` attribute or else the text content will be used, the values will be sent to the server when the form is submitted.
+
+We can set one of the options to be selected by default:
+
+```
+<option name="volvo" selected>Volvo</option>
+```

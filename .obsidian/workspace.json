@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/CSS/Forms.md",
+                "file": "Programming/CSS/More text styles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forms"
+              "title": "More text styles"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/CSS/Forms.md",
+                "file": "Programming/CSS/More text styles.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Forms"
+              "title": "Outline of More text styles"
             }
           }
         ],
@@ -168,43 +168,43 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "29328c901ddce15c",
+  "active": "4cf890c1f9a0a555",
   "lastOpenFiles": [
+    "Programming/CSS/CSS Units.md",
+    "Programming/CSS/More CSS properties.md",
+    "Programming/CSS/Advanced Selectors.md",
+    "Programming/CSS/Block and Inline.md",
+    "Programming/CSS/Box Model.md",
+    "Programming/CSS/Getting Started.md",
+    "Programming/HTML/Tables.md",
+    "Programming/HTML/SVG.md",
+    "Programming/HTML/Links and Images.md",
+    "Programming/HTML/Lists.md",
+    "Programming/HTML/Working With Text.md",
+    "Programming/HTML/HTML Boilerplate.md",
+    "Programming/HTML/Elements and Tags.md",
+    "Programming/CSS/Flexbox/Display flex.md",
+    "Programming/HTML/Forms.md",
+    "How does the internet work/How does the web work.md",
+    "How does the internet work/Internet.md",
+    "How does the internet work/How files are sent.md",
     "Programming/JavaScript/Strings.md",
-    "Programming/CSS/Forms.md",
     "Programming/JavaScript/Booleans.md",
     "Programming/CSS/Positioning.md",
     "Programming/CSS/Custom Properties(var).md",
     "Programming/CSS/CSS Functions.md",
     "Programming/JavaScript/Conditionals.md",
-    "Programming/CSS/Advanced Selectors.md",
-    "Programming/CSS/More CSS properties.md",
     "Programming/CSS/More text styles.md",
-    "Programming/HTML/Working With Text.md",
-    "Programming/HTML/HTML Boilerplate.md",
-    "Programming/HTML/Elements and Tags.md",
-    "Programming/HTML/SVG.md",
     "Programming/JavaScript/Objects.md",
-    "Programming/JavaScript/Loops.md",
-    "Programming/JavaScript/Events.md",
-    "Programming/JavaScript/DOM Manipulation.md",
-    "Programming/JavaScript/Arrays.md",
-    "Programming/HTML/Tables.md",
-    "Programming/CSS/CSS Units.md",
     "Images/JS_images/object_example.png",
     "Images/JS_images/initializing_object.png",
     "Images/JS_images/assigning_obj_properties.png",
     "Images/JS_images/DOM_Tree.png",
     "Images/Html_images/Table_img.png",
-    "Programming/JavaScript/Data Types.md",
-    "Programming/JavaScript/Numbers.md",
-    "Programming/JavaScript/Variables.md",
-    "Programming/JavaScript/Functions.md",
     "Images/JS_images/variables.png",
     "Images/JS_images/function_args_pars.png",
     "Images/JS_images",
     "Programming/JavaScript/Untitled",
-    "Programming/HTML/Links and Images.md",
     "Programming",
     "Programming/JavaScript",
     "Images/CSS_images/center.png",

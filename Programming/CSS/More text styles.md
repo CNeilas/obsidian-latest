@@ -1,6 +1,6 @@
 ## Fonts
 
-If you change the font and it is not installed on the user's computer the default font will be used which is often ugly. To go around this use:
+If you change the font and it is not installed on the user's computer the default font will be used which is often ugly. To go around this, use:
 
 ```
 body {

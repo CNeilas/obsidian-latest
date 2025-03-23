@@ -8,7 +8,7 @@ This is a link to another page/website:
 
 `href="link to a website"` is an attribute to paste in a path to a webpage/website, the text thats wrapped in an anchor element becomes blue and has an underline if it has an href attribute.
 
-`target="_blank"` attribute makes the webpage/website open in another instead of redirecting in the same tab.
+`target="_blank"` attribute makes the webpage/website open in another tab instead of redirecting in the same tab.
 
 `rel="noopener noreferrer"` Noopener prevents the website we redirected to from using JavaScript on your website. Noreferrer makes it so that the website we redirected to can't see the website we redirected from.
 

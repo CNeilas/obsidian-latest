@@ -21,7 +21,7 @@ Using a group of selectors for the same change:
 }
 ```
 
- Chaining selectors is when you chain selectors with no space in between resulting in bot selectors needed to change the element:
+ Chaining selectors is when you chain selectors with no space in between resulting in both selectors needed to change the element:
 
 ```
 .needed#needed {

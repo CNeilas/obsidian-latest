@@ -48,7 +48,7 @@ Makes text *italic* and puts emphasis on it for accessibility.
 
 ## Comments in HTML
 
-`<!-- This is a comment -->` This is just a not that does not affect the file whatsoever.
+`<!-- This is a comment -->` This is just a note that does not affect the file whatsoever.
 
 **P.S.** You can make new comments/comment lines with `ctrl + /`
 

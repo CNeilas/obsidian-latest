@@ -19,9 +19,9 @@ These are only nice to use as Icons or very simple images as they have to be wri
 
 ## Anatomy
 
-`xmlns` - stands for "XML NameSpace". This specifies the dialect of XML. The dialect of SVG is language specific. Without it some browsers will not render you image or render it incorrectly.
+`xmlns` - stands for "XML NameSpace". This specifies the dialect of XML. The dialect of SVG is language specific. Without it some browsers will not render your image or render it incorrectly.
 
-`vieBox` - defines the bounds of SVG. This defines positions of diffferent points of the elements, defines aspect ratio and the origin of my SVG as well.
+`viewBox` - defines the bounds of SVG. This defines positions of diffferent points of the elements, defines aspect ratio and the origin of my SVG as well.
 
 `class, id` - these function just like they do in HTML.
 

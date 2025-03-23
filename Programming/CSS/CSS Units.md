@@ -1,6 +1,6 @@
 ## Absolute units
 
-`px` is an absolute unit because the size of a pixel doesn't change relative to anything else on the page. This is the only unit you should be using in web projects as other one are inches and centimeters.
+`px` is an absolute unit because the size of a pixel doesn't change relative to anything else on the page. This is the only unit you should be using in web projects as other ones are inches and centimeters.
 
 ## Relative units
 
